@@ -3,3 +3,5 @@
 - Upload the homework 1 Cs file.
 2/3/2025
 -Uploaded the homework 2 Cs file.
+2/10/2025
+-Uploaded the homework 3 Cs file.
