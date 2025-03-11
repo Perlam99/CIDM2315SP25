@@ -7,3 +7,5 @@
 -Uploaded the homework 3 Cs file.
 2/17/2025
 -Uploaded the homework 4 Cs file.
+3/10/2025
+-Uploaded the homework 6 Cs file.
