@@ -33,7 +33,7 @@ class Program
 
     var amarilloCustomers = customer_list.Where( c => c.CustomerCity == "Amarillo").ToList();
     double averageAge = amarilloCustomers.Average(c => c.CustomerAge);
-    Console.WriteLine($"Q2; The average age of customers in Amarillo: {averageAge}");
+    Console.WriteLine($"Q2: The average age of customers in Amarillo: {averageAge}");
     }
 
     public static void CanyonAge(Customer[] customer_list){
